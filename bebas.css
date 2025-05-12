@@ -1,0 +1,55 @@
+h1 {color: blue;
+    margin-left: 300px;
+    margin-right: 300px;
+    border-radius: 10px;
+}
+
+body {
+    /* background-color: aquamarine; */
+    font-family: "Dosis", sans-serif;
+    background-image: url(https://st.depositphotos.com/36924814/53449/i/450/depositphotos_534490922-stock-photo-medical-health-red-cross-neon.jpg);
+    background-size: 1000px;
+}
+
+header {
+    text-align: center;
+}
+
+nav {
+    background-color: #000000;
+    margin: 50px;
+    border-radius: 20px;
+
+}
+
+nav ul {
+    list-style-type: none;
+}
+
+nav ul li {
+    /* background-color: brown; */
+    display: inline;
+    margin: 30px;
+    font-weight: bold;
+    margin: 20px;
+}
+
+main {
+    margin: 50px;
+}
+
+article {
+    background-color: white;
+    padding: 5px;
+    margin-top: 10px;
+    border-radius: 10px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: white;
+}
+
+nav ul li a:hover {
+    color: yellowgreen;
+}
